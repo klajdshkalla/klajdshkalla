@@ -1,5 +1,7 @@
 👋 Hi, I’m @klajdshkalla
-A broadcast tech and motion graphics pro learning Java. I specialize in on-air systems and graphic design, integrating IT and automation to improve workflows.
+A broadcast tech and motion graphics pro learning Java.
+I specialize in on-air systems and graphic design,
+integrating IT and automation to improve workflows.
 
 👀 I’m interested in broadcast technology, motion graphics, and programming.
 🌱 I’m currently learning Java.
